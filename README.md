@@ -1,4 +1,4 @@
 # repository for useful snippets 
-Trie Data structure
-Max profilt
+1. Trie Data structure
+2. Max profilt
 
